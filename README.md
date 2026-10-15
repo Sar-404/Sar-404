@@ -17,7 +17,7 @@ I'm a student exploring programming, algorithms, and artificial intelligence.
 ## 🏆 Certifications
 
 - **Scientific Computing with Python — freeCodeCamp**
-  - [View Certificate]((https://www.freecodecamp.org/certification/sharanyo/python-v9))
+  - [View Certificate](https://www.freecodecamp.org/certification/sharanyo/python-v9)
 
 ## Projects
 - More projects coming soon!
