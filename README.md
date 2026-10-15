@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Sar-404/Sar-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm a Python Developer in Progress 👋
 
-Here are some ideas to get you started:
+I'm a student exploring programming, algorithms, and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🐍 Learning Python
+- 🧩 Exploring recursion and algorithms
+- 🤖 Interested in AI and machine learning
+- 💡 I enjoy understanding how things work from first principles
+
+## Skills
+- Python
+- Problem-solving
+- Recursion and backtracking
+
+## 🏆 Certifications
+
+- **Scientific Computing with Python — freeCodeCamp**
+  - [View Certificate]((https://www.freecodecamp.org/certification/sharanyo/python-v9))
+
+## Projects
+- More projects coming soon!
+
+## Current Goals
+- Build algorithms from scratch
+- Understand neural networks
+- Develop useful Python applications
+
